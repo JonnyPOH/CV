@@ -2,11 +2,6 @@
 
 Welcome to my personal CV repository!
 
-## How to View
-
-You can view my CV directly in your browser or download it for offline access.
-
-- [View my CV](https://github.com/JonnyPOH/CV/blob/main/Jonathan_O_Hanlon_CV.pdf)
 
 ## About Me
 
