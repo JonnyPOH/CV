@@ -6,8 +6,7 @@ Welcome to my personal CV repository!
 
 You can view my CV directly in your browser or download it for offline access.
 
-- [View my CV](path/to/your/cv.pdf)
-- [Download my CV](path/to/your/cv.pdf)
+- [View my CV](https://github.com/JonnyPOH/CV/Jonathan O'Hanlon CV.pdf.pdf)
 
 ## About Me
 
